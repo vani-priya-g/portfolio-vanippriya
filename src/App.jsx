@@ -5,8 +5,9 @@ import Skills from './components/Skills';
 import Experience from './components/Experience';
 import Contact from './components/Contact';
 
-// Import Projects component
+// Import Projects and Education components
 import Projects from './components/Projects';
+import Education from './components/Education';
 
 function App() {
     // Resume data is hardcoded - no PDF reading needed
@@ -52,7 +53,7 @@ function App() {
             {
                 title: 'AI/ML Intern',
                 company: 'Careyu Automation',
-                period: 'Oct 2024 - Present',
+                period: 'Oct 2025 - Present',
                 description: 'Working on cutting-edge AI/ML projects focusing on computer vision and large language models.',
                 achievements: [
                     'Built YOLO-based computer vision models for real-time object detection and annotation tasks',
@@ -96,6 +97,36 @@ function App() {
                 tags: ['CNN', 'Transfer Learning', 'TensorFlow', 'Streamlit', 'Image Classification']
             }
         ],
+        education: [
+            {
+                degree: 'Advanced Programming Professional and Master Data Science',
+                institution: 'IIT-M GUVI',
+                period: 'Mar 2025 - Jun 2025',
+                description: 'Comprehensive program focusing on advanced programming concepts, data science methodologies, and practical applications of AI/ML technologies.',
+                achievements: [
+                    'Advanced programming techniques and best practices',
+                    'End-to-end data science project development',
+                    'Real-world problem solving with AI/ML frameworks'
+                ]
+            },
+            {
+                degree: 'Bachelor of Engineering in Electronics and Communication',
+                institution: 'Anna University',
+                period: 'Aug 2015 - Apr 2019',
+                description: 'Specialized in electronics, communication systems, and signal processing with strong foundations in mathematics and programming.',
+                achievements: [
+                    'Core coursework in Digital Signal Processing and Communication Systems',
+                    'Built strong analytical and problem-solving capabilities',
+                    'Developed programming skills applicable to AI/ML domain'
+                ]
+            }
+        ],
+        certificates: [
+            { name: 'Big Data', issuer: 'Zeyobron', year: '2024' },
+            { name: 'AI Fundamentals', issuer: 'Guvi', year: '2024' },
+            { name: 'Machine Learning', issuer: 'Guvi', year: '2024' },
+            { name: 'Time Series Forecasting', issuer: 'Guvi', year: '2024' }
+        ],
         social: [
             { name: 'LinkedIn', url: 'https://www.linkedin.com/in/vanippriya-g-b17aa2179/', icon: 'in' },
             { name: 'GitHub', url: 'https://github.com/vani-priya-g', icon: 'gh' }
@@ -137,7 +168,7 @@ function App() {
                         gap: 'var(--spacing-lg)',
                         flexWrap: 'wrap'
                     }}>
-                        {['About', 'Skills', 'Projects', 'Experience', 'Contact'].map((item) => (
+                        {['About', 'Skills', 'Projects', 'Education', 'Experience', 'Contact'].map((item) => (
                             <a
                                 key={item}
                                 href={`#${item.toLowerCase()}`}
@@ -164,6 +195,7 @@ function App() {
                 <About resumeData={resumeData} />
                 <Skills resumeData={resumeData} />
                 <Projects resumeData={resumeData} />
+                <Education resumeData={resumeData} />
                 <Experience resumeData={resumeData} />
                 <Contact resumeData={resumeData} />
             </main>
