@@ -2,8 +2,6 @@
 
 Professional AI/ML Engineer portfolio showcasing skills, projects, and experience.
 
-🔗 **Live Site**: [Your Render URL will go here]
-
 ## Features
 
 - 🎨 Modern dark theme with geometric shapes
@@ -50,3 +48,4 @@ This portfolio is deployed on Render. Any push to the main branch will automatic
 ---
 
 © 2025 Vanippriya G. All rights reserved.
+
