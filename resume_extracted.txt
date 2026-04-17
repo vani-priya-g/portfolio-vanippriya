@@ -1,0 +1,46 @@
+ 
+ 
+AI/ML professional skilled in Python, Machine Learning, and Deep Learning, specializing in YOLO -based vision 
+models, LLMs , and scalable data -driven solutions.  
+Skills  
+ 
+Programming  Language:  Python,  SQL  | Visualization:  PowerBI,  Tableau  | Libraries : Pandas,  NumPy,  Scikit -learn, 
+TensorFlow,  Keras,  Matplotlib,  | Machine  Learning&AI : EDA,  Feature  Engineering,  Model  Evaluation,  Time  Series 
+Forecasting,  CNN, LSTM ,YOLO,LLM  | Tools&Deployment:  Git, GitHub,  Microsoft  Power  BI, Streamlit,AWS  
+Projects  
+ 
+CNC  Milling  Performance  Analysis  and Fault  Detection  
+• Built  an LSTM -based  deep  learning  model  for CNC  tool wear  prediction,  improving  forecasting  accuracy  by 30% 
+over baseline models.  
+• Boosted  model  training  stability  and convergence  speed  by 25%  through  data standardization  and 
+Normalization techniques.  
+• Enhanced  generalization  and reduced  overfitting  by 40% using  dropout  layers  and optimized  neural  network  architecture.  
+• Deployed  the predictive  model  with Streamlit  on AWS  EC2 , enabling  real-time maintenance  insights  
+and r educing downtime risk.  
+ 
+Multiclass  Fish Image  Classification  
+• Preprocessed  & augmented  ∼X k fish images  with TensorFlow’s  ImageDataGenerator  to ensure  dataset  robust  
+• Trained  a CNN  and fine-tuned  five pre-trained  models  (VGG16,  ResNet50,  MobileNet,  InceptionV3 , 
+EfficientNetB0 ); selected top -performer based on validation accuracy.  
+• Evaluated  all models  with precision,  recall,  F1-score , and confusion  matrices ; visualized  performance  trends 
+via accuracy/loss curves.  
+• Deployed  a user-facing  Streamlit  app enabling  real-time fish species  prediction  with confidence  scores; 
+saved best model as .h5.  
+ 
+Experience   
+                    AI/ML Intern — Careyu Automatio n                                                                                       Oct 2025 - present                                                                                                                                                              
+ Built  YOLO -based computer vision  models for real -time object  detection and annotation tasks  
+ Conducting  data preprocessing and feature engineering  to enhance model performance and accuracy.  
+ Fine-tuned  Large Language Models (LLMs)  for automation and intelligent data generation use cases.  
+                   Dealing & sales executive – Goodwill wealth management                                                      Oct 2020 – Aug 2021  
+ Assisted  clients  with account  opening, trade execution,  and compliance  documentation . 
+                    Education  
+ 
+IIT-M GUVI -Advanced  Programming  Professional and  Master  Data  Science                              Mar2025  – Jun2025  
+Bachelor  of Engineering  (ECE)  Aug2015  – Apr2019  
+ 
+Certificates  
+ 
+Big Data : Zeyobro n | AI Fundamentals : Guvi  | Machine  Learning : Guvi  | Time  Series  Forecasting:  Guvi  
+   Vanippriya  G 
+ 

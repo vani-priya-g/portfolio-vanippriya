@@ -1,0 +1,61 @@
+PROFILE  
+PROFESSIONAL EXPERIENCE  
+SKILLS  
+PROJECTS    
+ 
+                                          AI/ML Engineer | Computer Vision | Generative AI  
+AI/ML Engineer with hands -on experience in building and deploying real -world AI systems, including YOLO -based 
+computer vision models and  LLM -based applications using RAG and agentic AI frameworks. Skilled in Python, Deep 
+Learning, and AWS, with a focus on scalable, production -ready solutions.  
+ 
+Junior  AI/ML  Engineer(Computer  Vision)  – Careyu  Automation  | Jan 2026  – Present  
+• Designed and deployed YOLO -based object detection models for real -time defect detection on 10K+ industrial images  
+• Improved model accuracy by 15–25%  through hyperparameter tuning and dataset optimization  
+•  Reduced false positives by ~20% , improving reliabili ty of inspection system  
+• Built end -to-end computer vision pipeline, reducing manual inspection effort by 30%  
+• Represented Careyu Automation at MIT (Anna University) and conducted Vision AI sessions for students (15+ hours)  
+AI/ML  Intern(Computer  Vision)  – Careyu  Automation  | Oct 2025  – Jan 2026  
+• Developed YOLO -based models for defect detection with high precision and recall  
+• Performed  image  preprocessing,  dataset  annotation,  and model  training  
+• Assisted  in model  tuning  and performance  evaluation  
+Machine  Learning Intern  – Cognifyz  Technologies  | Aug 2025  | Remote  
+• Built ML models on datasets with 10K+ records , improving prediction accuracy  
+• Performed EDA and feature engineering, enhancing model performance by ~10–15%  
+Freelance  Data  Science  Trainer  – BTree  Systems  | Jan 2026  – Present  
+• Delivered  training  on Python,  Machine Learning,  and AI concepts  
+• Guided  students  with hands -on ML exercises  and real -world  examples  
+ 
+Core  Skills : Machine Learning, Deep Learning, Computer Vision, Generative AI  
+Computer  Vision  Expertise : YOLO (v5, v8), OpenCV, Image Processing  
+Programming:  Python,  SQL 
+Frameworks & Libraries: TensorFlow, PyTorch, Scikit -learn 
+Deployment  & Tools: AWS (EC2), REST API Development, Streamlit  
+GenAI  & Agentic  AI: Large Language Models (LLMs), RAG (Retrieval Augmented Generation), Prompt Engineering, LangChain, 
+CrewAI (AI Agents), Embeddings & Vector Search, Claude (Anthropic)  
+ 
+CNC  Machine  Fault  Detection  & Performance  Analysis  
+• Developed  LSTM -based predictive  model  using CNC  sensor  time-series  data for machine  fault  detection  
+• Performed  data preprocessing,  feature  engineering,  and model  training  and Deployed  on AWS  cloud  infrastructure.  
+• Achieved  ~93%  prediction  accuracy,  reduced  false  positives  by 30%,  enabling  early  fault  detection  & reduced  downtim e 
+Industrial  Defect  Detection  Platform  
+• Developed  YOLO -based  computer  vision models  for automated  defect  detection  in industrial  components  
+• Performed  image  preprocessing,  dataset  annotation,  and model  optimization  
+• Deployed  the AI-powered  defect  detection  pipeline  on AWS  cloud  infrastructure  for scalable  real-time inspection  
+• Built  REST  API for model  inference  and integrated  with real-time inspection  system  
+AI Chatbot  for Intelligent  Q&A  
+• Developed  LLM -powered  chatbot for intelligent question  answering  
+• Built  AI agents  using  CrewAI  with  LLMs  (Claude/Anthropic)  for task automation  and intelligent  workflows  
+ 
+ 
+IIT-M GUVI  
+Advanced  Programming  in Data  Science  
+NADAR  SARASWATHI  COLLEGE  OF ENGINEERING  
+B.E . Electronics  and Communication  Engineering  MAR  2025  – DEC  2025  
+ 
+AUG  2015  – APR  2019  
+ 
+ 
+• Artificial Intelligence  Fundamentals  – GUVI  • Machine  Learning  – GUVI  • Microsoft  Power  BI – GUVI  
+• Time  Series  Forecasting  – GUVI  • Big Data – Zeyobron  
+EDUCATION  
+CERTIFICATES  
