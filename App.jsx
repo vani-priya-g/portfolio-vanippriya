@@ -75,7 +75,7 @@ function App() {
                 ]
             },
             {
-                title: 'AI/ML Intern (Computer Vision)',
+                title: 'AI/ML Engineer (Computer Vision)',
                 company: 'Careyu Automation',
                 period: 'Oct 2025 – Jan 2026',
                 description: 'Developed YOLO-based models for defect detection.',
