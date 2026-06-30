@@ -52,9 +52,9 @@ function App() {
         ],
         experience: [
             {
-                title: 'Junior AI/ML Engineer (Computer Vision)',
+                title: ' AI/ML Engineer (Computer Vision)(GET)',
                 company: 'Careyu Automation',
-                period: 'Jan 2026 – Present',
+                period: 'Oct 2025 – Present',
                 description: 'Designing and deploying YOLO-based object detection models for real-time defect detection.',
                 achievements: [
                     'Designed and deployed YOLO-based object detection models for real-time defect detection on 10K+ industrial images',
@@ -74,28 +74,7 @@ function App() {
                     'Guided students with hands-on ML exercises and real-world examples'
                 ]
             },
-            {
-                title: 'AI/ML Engineer (Computer Vision)',
-                company: 'Careyu Automation',
-                period: 'Oct 2025 – Jan 2026',
-                description: 'Developed YOLO-based models for defect detection.',
-                achievements: [
-                    'Developed YOLO-based models for defect detection with high precision and recall',
-                    'Performed image preprocessing, dataset annotation, and model training',
-                    'Assisted in model tuning and performance evaluation'
-                ]
-            },
-            {
-                title: 'Machine Learning Intern',
-                company: 'Cognifyz Technologies',
-                period: 'Aug 2025',
-                description: 'Built ML models on huge datasets, improving prediction accuracy.',
-                achievements: [
-                    'Built ML models on datasets with 10K+ records, improving prediction accuracy',
-                    'Performed EDA and feature engineering, enhancing model performance by ~10–15%'
-                ]
-            }
-        ],
+            
         projects: [
             {
                 title: 'CNC Machine Fault Detection & Performance Analysis',
